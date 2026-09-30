@@ -639,7 +639,7 @@
   <offer id="alt-36765">
     <vendorCode>ECS-2510</vendorCode>
     <price>4690.20</price>
-    <price_special></price_special>
+    <price_special>3690.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-36923">
@@ -1965,7 +1965,7 @@
   <offer id="alt-66710">
     <vendorCode>PBC-4330</vendorCode>
     <price>5490.00</price>
-    <price_special></price_special>
+    <price_special>4689.90</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-67000">
@@ -2768,7 +2768,7 @@
   </offer>
   <offer id="alt-85637">
     <vendorCode>LL2-16G-4D</vendorCode>
-    <price>3190.00</price>
+    <price>3189.90</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
