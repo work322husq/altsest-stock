@@ -142,7 +142,7 @@
     <vendorCode>ID-910</vendorCode>
     <price>1639.20</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-12330">
     <vendorCode>ID-500 Profi</vendorCode>
@@ -2152,7 +2152,7 @@
     <vendorCode>CERVASCAN</vendorCode>
     <price>130000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-74630">
     <vendorCode>SALT 404 PRO-528140101</vendorCode>
@@ -2818,7 +2818,7 @@
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
@@ -2854,7 +2854,7 @@
     <vendorCode>AZORES RC</vendorCode>
     <price>97899.90</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-88065">
     <vendorCode>CRH-2100 B Body</vendorCode>
@@ -2872,7 +2872,7 @@
     <vendorCode>SAT 4x4 new</vendorCode>
     <price>6900.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-89435">
     <vendorCode>SMLW403</vendorCode>
