@@ -46,7 +46,7 @@
     <vendorCode>TAX 4</vendorCode>
     <price>9600.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-8004">
     <vendorCode>TAX 5</vendorCode>
@@ -172,7 +172,7 @@
     <vendorCode>30100-SAVB Profi</vendorCode>
     <price>19950.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-13717">
     <vendorCode>3050-SAVD Profi</vendorCode>
@@ -1222,7 +1222,7 @@
     <vendorCode>VC-200-20</vendorCode>
     <price>5790.30</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-50389">
     <vendorCode>WBS-8</vendorCode>
@@ -1822,7 +1822,7 @@
     <vendorCode>GDS27T</vendorCode>
     <price>579000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-63418">
     <vendorCode>SALT 505 PRO-527150103</vendorCode>
