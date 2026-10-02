@@ -250,7 +250,7 @@
     <vendorCode>MT36-2</vendorCode>
     <price>48999.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-17354">
     <vendorCode>MS125-2</vendorCode>
@@ -346,7 +346,7 @@
     <vendorCode>LD-40</vendorCode>
     <price>1187.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-26671">
     <vendorCode>LD-60</vendorCode>
@@ -784,7 +784,7 @@
     <vendorCode>SVHR3x10</vendorCode>
     <price>9350.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-40093">
     <vendorCode>EStick 200 III</vendorCode>
@@ -1102,7 +1102,7 @@
     <vendorCode>LBV-30</vendorCode>
     <price>2137.98</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-47231">
     <vendorCode>BCS-3612</vendorCode>
@@ -1144,7 +1144,7 @@
     <vendorCode>SOMPORT</vendorCode>
     <price>92900.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-48414">
     <vendorCode>ARXP BOX4 180DSS</vendorCode>
@@ -2278,7 +2278,7 @@
     <vendorCode>STELVIO</vendorCode>
     <price>249000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-76181">
     <vendorCode>41890</vendorCode>
@@ -2758,7 +2758,7 @@
     <vendorCode>LIMITED 3300</vendorCode>
     <price>27900.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-85395">
     <vendorCode>SSLW 404 HOME BLACK</vendorCode>
@@ -2818,7 +2818,7 @@
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
