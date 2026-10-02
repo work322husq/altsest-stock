@@ -1100,7 +1100,7 @@
   </offer>
   <offer id="alt-47154">
     <vendorCode>LBV-30</vendorCode>
-    <price>2137.98</price>
+    <price>2298.90</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -1935,7 +1935,7 @@
   <offer id="alt-65729">
     <vendorCode>BLM-36-430 SET</vendorCode>
     <price>10989.90</price>
-    <price_special></price_special>
+    <price_special>8754.90</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-65848">
@@ -2768,7 +2768,7 @@
   </offer>
   <offer id="alt-85637">
     <vendorCode>LL2-16G-4D</vendorCode>
-    <price>3189.90</price>
+    <price>3190.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
