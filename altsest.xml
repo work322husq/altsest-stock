@@ -1102,7 +1102,7 @@
     <vendorCode>LBV-30</vendorCode>
     <price>2298.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-47231">
     <vendorCode>BCS-3612</vendorCode>
@@ -1822,7 +1822,7 @@
     <vendorCode>GDS27T</vendorCode>
     <price>579000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-63418">
     <vendorCode>SALT 505 PRO-527150103</vendorCode>
@@ -2194,7 +2194,7 @@
     <vendorCode>HVZ 438 SE</vendorCode>
     <price>2997.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75183">
     <vendorCode>SVHR2x12</vendorCode>
@@ -2782,7 +2782,7 @@
     <vendorCode>LIMITED 7000 RC V2</vendorCode>
     <price>50900.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86984">
     <vendorCode>LANZAROTE III RC</vendorCode>
