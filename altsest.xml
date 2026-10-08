@@ -1450,7 +1450,7 @@
     <vendorCode>InverMig 500</vendorCode>
     <price>120500.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-55895">
     <vendorCode>21000010038</vendorCode>
@@ -2278,7 +2278,7 @@
     <vendorCode>STELVIO</vendorCode>
     <price>249000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-76181">
     <vendorCode>41890</vendorCode>
