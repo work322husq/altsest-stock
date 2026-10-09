@@ -608,7 +608,7 @@
   </offer>
   <offer id="alt-35999">
     <vendorCode>BM-2120</vendorCode>
-    <price>690.00</price>
+    <price>712.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -777,7 +777,7 @@
   <offer id="alt-39915">
     <vendorCode>BCS-21015</vendorCode>
     <price>1425.00</price>
-    <price_special></price_special>
+    <price_special>1282.50</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-39991">
@@ -1251,7 +1251,7 @@
   <offer id="alt-51182">
     <vendorCode>GT-21 SET</vendorCode>
     <price>4970.00</price>
-    <price_special></price_special>
+    <price_special>4224.50</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-51402">
@@ -1719,7 +1719,7 @@
   <offer id="alt-60854">
     <vendorCode>LM-38-16</vendorCode>
     <price>6125.00</price>
-    <price_special></price_special>
+    <price_special>5696.25</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-60913">
@@ -2241,7 +2241,7 @@
   <offer id="alt-75491">
     <vendorCode>BCS-2115</vendorCode>
     <price>3690.00</price>
-    <price_special></price_special>
+    <price_special>2952.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-75673">
@@ -2643,7 +2643,7 @@
   <offer id="alt-83402">
     <vendorCode>GT-21B SET</vendorCode>
     <price>5690.00</price>
-    <price_special></price_special>
+    <price_special>5405.50</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-83443">
@@ -2655,7 +2655,7 @@
   <offer id="alt-83453">
     <vendorCode>EGS-2245</vendorCode>
     <price>5455.00</price>
-    <price_special></price_special>
+    <price_special>4964.05</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-83575">
