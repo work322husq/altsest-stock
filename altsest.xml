@@ -658,7 +658,7 @@
     <vendorCode>T200</vendorCode>
     <price>9950.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-37190">
     <vendorCode>21000010049</vendorCode>
@@ -2020,7 +2020,7 @@
     <vendorCode>BCM-21</vendorCode>
     <price>489.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-68909">
     <vendorCode>ER-80A</vendorCode>
@@ -2248,7 +2248,7 @@
     <vendorCode>41564</vendorCode>
     <price>579.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-75710">
     <vendorCode>MALLORCA RC</vendorCode>
@@ -2278,7 +2278,7 @@
     <vendorCode>STELVIO</vendorCode>
     <price>249000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-76181">
     <vendorCode>41890</vendorCode>
@@ -2332,7 +2332,7 @@
     <vendorCode>QXE TURBO</vendorCode>
     <price>30999.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-76882">
     <vendorCode>LIMITED 5000</vendorCode>
@@ -2944,7 +2944,7 @@
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-73866">
     <vendorCode>SDHR 404 PRO</vendorCode>
