@@ -2200,7 +2200,7 @@
     <vendorCode>SVHR2x12</vendorCode>
     <price>6855.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75190">
     <vendorCode>CRS-2000 B Body</vendorCode>
@@ -2818,7 +2818,7 @@
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
