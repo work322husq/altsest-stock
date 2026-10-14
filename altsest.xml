@@ -172,7 +172,7 @@
     <vendorCode>30100-SAVB Profi</vendorCode>
     <price>19950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-13717">
     <vendorCode>3050-SAVD Profi</vendorCode>
@@ -784,7 +784,7 @@
     <vendorCode>SVHR3x10</vendorCode>
     <price>9350.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-40093">
     <vendorCode>EStick 200 III</vendorCode>
@@ -1822,7 +1822,7 @@
     <vendorCode>GDS27T</vendorCode>
     <price>579000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-63418">
     <vendorCode>SALT 505 PRO-527150103</vendorCode>
@@ -2050,7 +2050,7 @@
     <vendorCode>SDHR 406 HOME</vendorCode>
     <price>3690.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-70052">
     <vendorCode>CRR-2525-P</vendorCode>
@@ -2818,7 +2818,7 @@
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
@@ -2854,7 +2854,7 @@
     <vendorCode>AZORES RC</vendorCode>
     <price>97899.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-88065">
     <vendorCode>CRH-2100 B Body</vendorCode>
@@ -2944,7 +2944,7 @@
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73866">
     <vendorCode>SDHR 404 PRO</vendorCode>
