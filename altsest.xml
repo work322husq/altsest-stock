@@ -100,7 +100,7 @@
     <vendorCode>HM-1350 PRO</vendorCode>
     <price>3189.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-11834">
     <vendorCode>AX 40</vendorCode>
@@ -424,7 +424,7 @@
     <vendorCode>FEROE</vendorCode>
     <price>47990.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-30582">
     <vendorCode>LL-1605</vendorCode>
@@ -1498,7 +1498,7 @@
     <vendorCode>SVHR3x12</vendorCode>
     <price>11690.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-56551">
     <vendorCode>RH-850 PROFI</vendorCode>
@@ -1744,7 +1744,7 @@
     <vendorCode>CRETA RC</vendorCode>
     <price>75900.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-61744">
     <vendorCode>GORBEA NEW</vendorCode>
