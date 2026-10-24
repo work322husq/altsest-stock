@@ -46,7 +46,7 @@
     <vendorCode>TAX 4</vendorCode>
     <price>9600.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-8004">
     <vendorCode>TAX 5</vendorCode>
@@ -2218,7 +2218,7 @@
     <vendorCode>BLM-18-330 SET</vendorCode>
     <price>7775.10</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-75344">
     <vendorCode>Power Cut 70 HF</vendorCode>
@@ -2944,7 +2944,7 @@
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73866">
     <vendorCode>SDHR 404 PRO</vendorCode>
