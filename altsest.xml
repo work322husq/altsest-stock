@@ -1786,7 +1786,7 @@
     <vendorCode>SDHR 405 HOME</vendorCode>
     <price>2990.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-62669">
     <vendorCode>BC-20Q DUAL</vendorCode>
@@ -2182,7 +2182,7 @@
     <vendorCode>RH-920 Q PROFI</vendorCode>
     <price>2490.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75093">
     <vendorCode>47332</vendorCode>
