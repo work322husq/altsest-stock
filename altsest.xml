@@ -1114,7 +1114,7 @@
     <vendorCode>SVHR3x11</vendorCode>
     <price>9690.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-48017">
     <vendorCode>ISASA</vendorCode>
@@ -2182,7 +2182,7 @@
     <vendorCode>RH-920 Q PROFI</vendorCode>
     <price>2490.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75093">
     <vendorCode>47332</vendorCode>
@@ -2944,7 +2944,7 @@
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73866">
     <vendorCode>SDHR 404 PRO</vendorCode>
