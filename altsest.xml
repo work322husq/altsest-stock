@@ -586,7 +586,7 @@
     <vendorCode>HG-2002D</vendorCode>
     <price>963.90</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-35712">
     <vendorCode>MSR90 wheel kit</vendorCode>
@@ -796,7 +796,7 @@
     <vendorCode>CV-850 SE</vendorCode>
     <price>1449.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-40119">
     <vendorCode>CS-190/2 PROFI</vendorCode>
@@ -1282,7 +1282,7 @@
     <vendorCode>HG-2003RD</vendorCode>
     <price>1028.70</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-52206">
     <vendorCode>GZE-1210</vendorCode>
@@ -2026,7 +2026,7 @@
     <vendorCode>ER-80A</vendorCode>
     <price>2090.10</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-69138">
     <vendorCode>LM-32-12 NEW</vendorCode>
@@ -2578,7 +2578,7 @@
     <vendorCode>AG-2000B</vendorCode>
     <price>3489.90</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-82044">
     <vendorCode>HDMIG 200W</vendorCode>
@@ -2818,7 +2818,7 @@
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
