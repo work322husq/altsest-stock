@@ -796,7 +796,7 @@
     <vendorCode>CV-850 SE</vendorCode>
     <price>1449.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-40119">
     <vendorCode>CS-190/2 PROFI</vendorCode>
@@ -1228,7 +1228,7 @@
     <vendorCode>WBS-8</vendorCode>
     <price>5990.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-50414">
     <vendorCode>MADEIRA</vendorCode>
@@ -2944,7 +2944,7 @@
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73866">
     <vendorCode>SDHR 404 PRO</vendorCode>
