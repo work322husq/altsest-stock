@@ -1186,7 +1186,7 @@
     <vendorCode>IZOARD</vendorCode>
     <price>195000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-49292">
     <vendorCode>MSH160-4-340091001</vendorCode>
@@ -2428,13 +2428,13 @@
     <vendorCode>TURBO 2800</vendorCode>
     <price>21489.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-79704">
     <vendorCode>RODAS</vendorCode>
     <price>40899.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-79725">
     <vendorCode>GZE-3320</vendorCode>
@@ -2968,6 +2968,6 @@
     <vendorCode>GZE-0607-C</vendorCode>
     <price>20900.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
 </offers>
