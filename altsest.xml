@@ -796,7 +796,7 @@
     <vendorCode>CV-850 SE</vendorCode>
     <price>1449.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-40119">
     <vendorCode>CS-190/2 PROFI</vendorCode>
@@ -2056,7 +2056,7 @@
     <vendorCode>CRR-2525-P</vendorCode>
     <price>3497.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-70170">
     <vendorCode>21000010037</vendorCode>
@@ -2182,7 +2182,7 @@
     <vendorCode>RH-920 Q PROFI</vendorCode>
     <price>2490.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75093">
     <vendorCode>47332</vendorCode>
@@ -2434,7 +2434,7 @@
     <vendorCode>RODAS</vendorCode>
     <price>40899.90</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-79725">
     <vendorCode>GZE-3320</vendorCode>
@@ -2476,7 +2476,7 @@
     <vendorCode>TDXE 4</vendorCode>
     <price>9600.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-80237">
     <vendorCode>MS60-2</vendorCode>
@@ -2692,7 +2692,7 @@
     <vendorCode>B-2020D</vendorCode>
     <price>749.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-84490">
     <vendorCode>DD-2500-18</vendorCode>
@@ -2758,7 +2758,7 @@
     <vendorCode>LIMITED 3300</vendorCode>
     <price>27900.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-85395">
     <vendorCode>SSLW 404 HOME BLACK</vendorCode>
