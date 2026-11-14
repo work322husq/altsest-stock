@@ -423,7 +423,7 @@
   <offer id="alt-30575">
     <vendorCode>FEROE</vendorCode>
     <price>47990.00</price>
-    <price_special></price_special>
+    <price_special>45590.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-30582">
@@ -441,7 +441,7 @@
   <offer id="alt-30754">
     <vendorCode>RB2000</vendorCode>
     <price>54990.90</price>
-    <price_special></price_special>
+    <price_special>52241.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-30865">
@@ -459,7 +459,7 @@
   <offer id="alt-31324">
     <vendorCode>GZE-5052</vendorCode>
     <price>138999.90</price>
-    <price_special></price_special>
+    <price_special>132050.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-31348">
@@ -489,7 +489,7 @@
   <offer id="alt-31974">
     <vendorCode>TURBO 7000 E</vendorCode>
     <price>48000.00</price>
-    <price_special></price_special>
+    <price_special>45600.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-32200">
@@ -519,7 +519,7 @@
   <offer id="alt-33448">
     <vendorCode>ESTRELA NEW</vendorCode>
     <price>29490.00</price>
-    <price_special></price_special>
+    <price_special>28016.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-33775">
@@ -537,7 +537,7 @@
   <offer id="alt-34184">
     <vendorCode>CRETA SOL</vendorCode>
     <price>73899.90</price>
-    <price_special></price_special>
+    <price_special>70205.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-34391">
@@ -561,7 +561,7 @@
   <offer id="alt-34891">
     <vendorCode>GDS200T</vendorCode>
     <price>1890000.00</price>
-    <price_special></price_special>
+    <price_special>1795500.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-34941">
@@ -825,7 +825,7 @@
   <offer id="alt-40530">
     <vendorCode>GDS90T</vendorCode>
     <price>939999.90</price>
-    <price_special></price_special>
+    <price_special>893000.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-40645">
@@ -879,7 +879,7 @@
   <offer id="alt-41846">
     <vendorCode>GZE-2020R</vendorCode>
     <price>54999.90</price>
-    <price_special></price_special>
+    <price_special>52250.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-41933">
@@ -891,7 +891,7 @@
   <offer id="alt-42002">
     <vendorCode>EZCARAY S</vendorCode>
     <price>73900.00</price>
-    <price_special></price_special>
+    <price_special>70205.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-42172">
@@ -921,7 +921,7 @@
   <offer id="alt-43319">
     <vendorCode>NATURA 7000</vendorCode>
     <price>54990.00</price>
-    <price_special></price_special>
+    <price_special>52240.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-43396">
@@ -1011,7 +1011,7 @@
   <offer id="alt-44880">
     <vendorCode>MULHACEN ATS</vendorCode>
     <price>59900.10</price>
-    <price_special></price_special>
+    <price_special>56905.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-45047">
@@ -1089,13 +1089,13 @@
   <offer id="alt-47046">
     <vendorCode>LIMITED 2000i</vendorCode>
     <price>36900.00</price>
-    <price_special></price_special>
+    <price_special>35055.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-47077">
     <vendorCode>LIMITED 3000</vendorCode>
     <price>24900.00</price>
-    <price_special></price_special>
+    <price_special>23655.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-47154">
@@ -1119,7 +1119,7 @@
   <offer id="alt-48017">
     <vendorCode>ISASA</vendorCode>
     <price>13899.90</price>
-    <price_special></price_special>
+    <price_special>13205.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-48260">
@@ -1143,7 +1143,7 @@
   <offer id="alt-48383">
     <vendorCode>SOMPORT</vendorCode>
     <price>92900.10</price>
-    <price_special></price_special>
+    <price_special>88255.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-48414">
@@ -1167,7 +1167,7 @@
   <offer id="alt-48692">
     <vendorCode>GENERGY ATS 250A</vendorCode>
     <price>39000.00</price>
-    <price_special></price_special>
+    <price_special>37050.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-48897">
@@ -1185,7 +1185,7 @@
   <offer id="alt-49044">
     <vendorCode>IZOARD</vendorCode>
     <price>195000.00</price>
-    <price_special></price_special>
+    <price_special>185250.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-49292">
@@ -1233,7 +1233,7 @@
   <offer id="alt-50414">
     <vendorCode>MADEIRA</vendorCode>
     <price>55989.90</price>
-    <price_special></price_special>
+    <price_special>53190.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-50475">
@@ -1275,7 +1275,7 @@
   <offer id="alt-52123">
     <vendorCode>GZE-0810</vendorCode>
     <price>39990.00</price>
-    <price_special></price_special>
+    <price_special>37990.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-52139">
@@ -1287,7 +1287,7 @@
   <offer id="alt-52206">
     <vendorCode>GZE-1210</vendorCode>
     <price>54990.00</price>
-    <price_special></price_special>
+    <price_special>52240.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-52299">
@@ -1365,7 +1365,7 @@
   <offer id="alt-53763">
     <vendorCode>GDS150T</vendorCode>
     <price>1299999.90</price>
-    <price_special></price_special>
+    <price_special>1235000.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-54087">
@@ -1383,13 +1383,13 @@
   <offer id="alt-54114">
     <vendorCode>GENERGY ATS 63A</vendorCode>
     <price>26460.00</price>
-    <price_special></price_special>
+    <price_special>25137.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-54135">
     <vendorCode>IFR-5200-48</vendorCode>
     <price>54999.90</price>
-    <price_special></price_special>
+    <price_special>52250.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-54369">
@@ -1425,7 +1425,7 @@
   <offer id="alt-55344">
     <vendorCode>GZE200W</vendorCode>
     <price>26389.20</price>
-    <price_special></price_special>
+    <price_special>25070.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-55551">
@@ -1623,7 +1623,7 @@
   <offer id="alt-58481">
     <vendorCode>GDS70T</vendorCode>
     <price>789000.00</price>
-    <price_special></price_special>
+    <price_special>749550.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-58697">
@@ -1641,7 +1641,7 @@
   <offer id="alt-58974">
     <vendorCode>GENERGY ATS 80A</vendorCode>
     <price>30870.00</price>
-    <price_special></price_special>
+    <price_special>29326.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-59349">
@@ -1653,7 +1653,7 @@
   <offer id="alt-59604">
     <vendorCode>FORMIGAL S</vendorCode>
     <price>81900.00</price>
-    <price_special></price_special>
+    <price_special>77805.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-59752">
@@ -1665,7 +1665,7 @@
   <offer id="alt-59905">
     <vendorCode>GZE-1515</vendorCode>
     <price>65990.10</price>
-    <price_special></price_special>
+    <price_special>62691.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-60018">
@@ -1689,7 +1689,7 @@
   <offer id="alt-60064">
     <vendorCode>XT60-MC4</vendorCode>
     <price>2490.00</price>
-    <price_special></price_special>
+    <price_special>2366.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-60115">
@@ -1731,7 +1731,7 @@
   <offer id="alt-61009">
     <vendorCode>LIMITED 1500i</vendorCode>
     <price>27900.00</price>
-    <price_special></price_special>
+    <price_special>26505.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-61242">
@@ -1743,13 +1743,13 @@
   <offer id="alt-61318">
     <vendorCode>CRETA RC</vendorCode>
     <price>75900.00</price>
-    <price_special></price_special>
+    <price_special>72105.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-61744">
     <vendorCode>GORBEA NEW</vendorCode>
     <price>24900.00</price>
-    <price_special></price_special>
+    <price_special>23655.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-61818">
@@ -1767,7 +1767,7 @@
   <offer id="alt-62027">
     <vendorCode>TURBO 5500 E</vendorCode>
     <price>44000.00</price>
-    <price_special></price_special>
+    <price_special>41800.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-62035">
@@ -1797,7 +1797,7 @@
   <offer id="alt-62808">
     <vendorCode>LIMITED 3000D</vendorCode>
     <price>34989.90</price>
-    <price_special></price_special>
+    <price_special>33240.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-62986">
@@ -1821,7 +1821,7 @@
   <offer id="alt-63365">
     <vendorCode>GDS27T</vendorCode>
     <price>579000.00</price>
-    <price_special></price_special>
+    <price_special>550050.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-63418">
@@ -1869,7 +1869,7 @@
   <offer id="alt-64109">
     <vendorCode>LFP5120WH</vendorCode>
     <price>89000.10</price>
-    <price_special></price_special>
+    <price_special>84550.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-64236">
@@ -1905,7 +1905,7 @@
   <offer id="alt-65212">
     <vendorCode>GZE-0303</vendorCode>
     <price>20900.10</price>
-    <price_special></price_special>
+    <price_special>19855.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-65382">
@@ -2001,7 +2001,7 @@
   <offer id="alt-68519">
     <vendorCode>TENERIFE RC</vendorCode>
     <price>139899.90</price>
-    <price_special></price_special>
+    <price_special>132905.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-68532">
@@ -2133,7 +2133,7 @@
   <offer id="alt-73726">
     <vendorCode>GDS50T</vendorCode>
     <price>710000.10</price>
-    <price_special></price_special>
+    <price_special>674500.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73737">
@@ -2151,7 +2151,7 @@
   <offer id="alt-74493">
     <vendorCode>CERVASCAN</vendorCode>
     <price>130000.00</price>
-    <price_special></price_special>
+    <price_special>123500.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-74630">
@@ -2169,13 +2169,13 @@
   <offer id="alt-74727">
     <vendorCode>IFR6000-48</vendorCode>
     <price>59990.10</price>
-    <price_special></price_special>
+    <price_special>56991.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-74829">
     <vendorCode>240211090.ats</vendorCode>
     <price>38808.00</price>
-    <price_special></price_special>
+    <price_special>36868.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75005">
@@ -2253,7 +2253,7 @@
   <offer id="alt-75710">
     <vendorCode>MALLORCA RC</vendorCode>
     <price>57000.00</price>
-    <price_special></price_special>
+    <price_special>54150.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75866">
@@ -2271,13 +2271,13 @@
   <offer id="alt-75971">
     <vendorCode>GENERGY ATS 125A</vendorCode>
     <price>41454.00</price>
-    <price_special></price_special>
+    <price_special>39381.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-76134">
     <vendorCode>STELVIO</vendorCode>
     <price>249000.00</price>
-    <price_special></price_special>
+    <price_special>236550.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-76181">
@@ -2289,7 +2289,7 @@
   <offer id="alt-76198">
     <vendorCode>ZERO MPPT</vendorCode>
     <price>9889.20</price>
-    <price_special></price_special>
+    <price_special>9395.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-76304">
@@ -2307,7 +2307,7 @@
   <offer id="alt-76342">
     <vendorCode>LIMITED 1000i</vendorCode>
     <price>13899.90</price>
-    <price_special></price_special>
+    <price_special>13205.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-76440">
@@ -2325,7 +2325,7 @@
   <offer id="alt-76547">
     <vendorCode>GDS10T</vendorCode>
     <price>449000.00</price>
-    <price_special></price_special>
+    <price_special>426550.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-76617">
@@ -2337,13 +2337,13 @@
   <offer id="alt-76882">
     <vendorCode>LIMITED 5000</vendorCode>
     <price>34899.90</price>
-    <price_special></price_special>
+    <price_special>33155.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-77351">
     <vendorCode>CRETA SILENT RC</vendorCode>
     <price>105900.00</price>
-    <price_special></price_special>
+    <price_special>100605.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-77520">
@@ -2367,7 +2367,7 @@
   <offer id="alt-78347">
     <vendorCode>240040090.ats</vendorCode>
     <price>54684.00</price>
-    <price_special></price_special>
+    <price_special>51950.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-78352">
@@ -2379,13 +2379,13 @@
   <offer id="alt-78500">
     <vendorCode>NATURA 5000</vendorCode>
     <price>44990.10</price>
-    <price_special></price_special>
+    <price_special>42741.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-78875">
     <vendorCode>GZE-0305</vendorCode>
     <price>18489.90</price>
-    <price_special></price_special>
+    <price_special>17565.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-78988">
@@ -2409,7 +2409,7 @@
   <offer id="alt-79181">
     <vendorCode>GZE-10252</vendorCode>
     <price>189900.00</price>
-    <price_special></price_special>
+    <price_special>180405.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-79459">
@@ -2421,25 +2421,25 @@
   <offer id="alt-79556">
     <vendorCode>CRETA ATS</vendorCode>
     <price>80990.10</price>
-    <price_special></price_special>
+    <price_special>76941.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-79651">
     <vendorCode>TURBO 2800</vendorCode>
     <price>21489.90</price>
-    <price_special></price_special>
+    <price_special>20415.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-79704">
     <vendorCode>RODAS</vendorCode>
     <price>40899.90</price>
-    <price_special></price_special>
+    <price_special>38855.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-79725">
     <vendorCode>GZE-3320</vendorCode>
     <price>149900.10</price>
-    <price_special></price_special>
+    <price_special>142405.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-79781">
@@ -2493,7 +2493,7 @@
   <offer id="alt-80409">
     <vendorCode>LIMITED 7000</vendorCode>
     <price>39900.00</price>
-    <price_special></price_special>
+    <price_special>37905.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-80452">
@@ -2601,7 +2601,7 @@
   <offer id="alt-82503">
     <vendorCode>ELBA RC</vendorCode>
     <price>81990.00</price>
-    <price_special></price_special>
+    <price_special>77890.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-82618">
@@ -2757,7 +2757,7 @@
   <offer id="alt-85248">
     <vendorCode>LIMITED 3300</vendorCode>
     <price>27900.00</price>
-    <price_special></price_special>
+    <price_special>26505.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-85395">
@@ -2775,85 +2775,85 @@
   <offer id="alt-86982">
     <vendorCode>LIMITED 5000 RC V2</vendorCode>
     <price>40899.90</price>
-    <price_special></price_special>
+    <price_special>38855.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86983">
     <vendorCode>LIMITED 7000 RC V2</vendorCode>
     <price>50900.10</price>
-    <price_special></price_special>
+    <price_special>48355.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86984">
     <vendorCode>LANZAROTE III RC</vendorCode>
     <price>36990.00</price>
-    <price_special></price_special>
+    <price_special>35140.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86985">
     <vendorCode>GZE-1018</vendorCode>
     <price>44500.00</price>
-    <price_special></price_special>
+    <price_special>42275.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86986">
     <vendorCode>GZE-0206</vendorCode>
     <price>12000.00</price>
-    <price_special></price_special>
+    <price_special>11400.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86987">
     <vendorCode>GZE-1518</vendorCode>
     <price>51000.00</price>
-    <price_special></price_special>
+    <price_special>48450.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86988">
     <vendorCode>TURBO 2000i RC</vendorCode>
     <price>35990.00</price>
-    <price_special></price_special>
+    <price_special>34190.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86989">
     <vendorCode>GZE-0506</vendorCode>
     <price>18000.00</price>
-    <price_special></price_special>
+    <price_special>17100.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86990">
     <vendorCode>MENORCA III RC</vendorCode>
     <price>51990.00</price>
-    <price_special></price_special>
+    <price_special>49390.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86991">
     <vendorCode>GZE-2024</vendorCode>
     <price>66000.00</price>
-    <price_special></price_special>
+    <price_special>62700.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86992">
     <vendorCode>DIRECT-100</vendorCode>
     <price>20990.00</price>
-    <price_special></price_special>
+    <price_special>19940.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-86993">
     <vendorCode>DIRECT-200</vendorCode>
     <price>34990.00</price>
-    <price_special></price_special>
+    <price_special>33240.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-87994">
     <vendorCode>TURBO 3300</vendorCode>
     <price>27999.90</price>
-    <price_special></price_special>
+    <price_special>26600.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-88007">
     <vendorCode>AZORES RC</vendorCode>
     <price>97899.90</price>
-    <price_special></price_special>
+    <price_special>93005.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-88065">
@@ -2925,7 +2925,7 @@
   <offer id="alt-89539">
     <vendorCode>TURBOBAT 600-PRO</vendorCode>
     <price>16989.90</price>
-    <price_special></price_special>
+    <price_special>16140.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-113839">
@@ -2937,13 +2937,13 @@
   <offer id="alt-114650">
     <vendorCode>GZE-1020-E</vendorCode>
     <price>42990.00</price>
-    <price_special></price_special>
+    <price_special>40840.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-114651">
     <vendorCode>GZE-1012-C</vendorCode>
     <price>33990.00</price>
-    <price_special></price_special>
+    <price_special>32290.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-73866">
@@ -2955,19 +2955,19 @@
   <offer id="alt-114910">
     <vendorCode>GZE-2224-C</vendorCode>
     <price>57900.00</price>
-    <price_special></price_special>
+    <price_special>55005.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-114911">
     <vendorCode>GZE-0303-C</vendorCode>
     <price>15900.00</price>
-    <price_special></price_special>
+    <price_special>15105.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-114912">
     <vendorCode>GZE-0607-C</vendorCode>
     <price>20900.00</price>
-    <price_special></price_special>
+    <price_special>19855.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
 </offers>
