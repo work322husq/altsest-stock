@@ -1540,7 +1540,7 @@
     <vendorCode>BTV-21-123</vendorCode>
     <price>3390.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-57284">
     <vendorCode>SVHR3x7</vendorCode>
@@ -2056,7 +2056,7 @@
     <vendorCode>CRR-2525-P</vendorCode>
     <price>3497.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-70170">
     <vendorCode>21000010037</vendorCode>
@@ -2776,7 +2776,7 @@
     <vendorCode>LIMITED 5000 RC V2</vendorCode>
     <price>40899.90</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-86983">
     <vendorCode>LIMITED 7000 RC V2</vendorCode>
@@ -2956,7 +2956,7 @@
     <vendorCode>GZE-2224-C</vendorCode>
     <price>57900.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-114911">
     <vendorCode>GZE-0303-C</vendorCode>
