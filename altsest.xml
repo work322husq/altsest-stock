@@ -94,7 +94,7 @@
     <vendorCode>HM-1050</vendorCode>
     <price>2490.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-11690">
     <vendorCode>HM-1350 PRO</vendorCode>
@@ -142,7 +142,7 @@
     <vendorCode>ID-910</vendorCode>
     <price>1639.20</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-12330">
     <vendorCode>ID-500 Profi</vendorCode>
@@ -964,7 +964,7 @@
     <vendorCode>30100-SAOD Profi</vendorCode>
     <price>16490.10</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-44262">
     <vendorCode>ARXP BOX3 150LHT</vendorCode>
@@ -1216,7 +1216,7 @@
     <vendorCode>VC-200-20</vendorCode>
     <price>5790.30</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-50389">
     <vendorCode>WBS-8</vendorCode>
@@ -1468,7 +1468,7 @@
     <vendorCode>VC-2001-30</vendorCode>
     <price>4790.10</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-56227">
     <vendorCode>SVHR3x9</vendorCode>
@@ -1540,7 +1540,7 @@
     <vendorCode>SVHR3x7</vendorCode>
     <price>6690.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-57292">
     <vendorCode>PMig 200 III</vendorCode>
@@ -1984,7 +1984,7 @@
     <vendorCode>RH-1600 PROFI</vendorCode>
     <price>3690.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="alt-68467">
     <vendorCode>SVHR1x10</vendorCode>
@@ -2194,7 +2194,7 @@
     <vendorCode>SVHR2x12</vendorCode>
     <price>6855.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-75190">
     <vendorCode>CRS-2000 B Body</vendorCode>
@@ -2344,7 +2344,7 @@
     <vendorCode>SDHR 406 PRO</vendorCode>
     <price>3950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="alt-77856">
     <vendorCode>46343</vendorCode>
